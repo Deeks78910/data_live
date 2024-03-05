@@ -1,0 +1,64 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      },
+      {
+        "id": 2,
+        "answer": [
+          {
+            "question": "who has fastest knockout in UFC history",
+            "answer": "Nate"
+          },
+          {
+            "question": "Who has score the 100 international Centuries",
+            "answer": "Sachin"
+          },
+          {
+            "question": "Top crypto currency",
+            "answer": "Bitcoin"
+          },
+          {
+            "question": "which Team has won 5 Titles in IPL",
+            "answer": "CSK"
+          },
+          {
+            "question": "PKL 9th Season winner",
+            "answer": "JP"
+          },
+          {
+            "question": "which player has Highest Runs in IPL",
+            "answer": "Virat"
+          },
+          {
+            "question": "2023 IPL winners",
+            "answer": "RCB"
+          },
+          {
+            "question": "who is Richest UFC fighter in the History",
+            "answer": "Usman"
+          },
+          {
+            "question": "which crypto has 20million$ Marketcap",
+            "answer": "XRP"
+          },
+          {
+            "question": "which INDIAN Captain won the ICC Trophies in All Formates.",
+            "answer": "Ms Dhoni"
+          }
+        ]
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
